@@ -7,11 +7,11 @@ import (
 	gohttp "net/http"
 
 	"github.com/ian-kent/go-log/log"
-	"github.com/mailhog/MailHog-Server/api"
-	"github.com/mailhog/MailHog-Server/config"
-	"github.com/mailhog/MailHog-Server/smtp"
+	"github.com/Mathtin/MailHog-Server/api"
+	"github.com/Mathtin/MailHog-Server/config"
+	"github.com/Mathtin/MailHog-Server/smtp"
 	"github.com/mailhog/MailHog-UI/assets"
-	comcfg "github.com/mailhog/MailHog/config"
+	comcfg "github.com/mailhog/Mathtin/config"
 	"github.com/mailhog/http"
 )
 
